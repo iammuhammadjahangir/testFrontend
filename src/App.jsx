@@ -7,7 +7,7 @@ import RegisterUsers from "./components/RegisterUsers"
 
 // PHASE 2: Authentication (UNCOMMENT WHEN READY)
 import { AuthProvider } from "./context/authContext";
-import LoginForm from "./components/LoginForm";
+import LoginForm from "./components/loginForm";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 // PHASE 3: Form Validation (UNCOMMENT WHEN READY)
